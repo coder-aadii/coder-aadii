@@ -65,6 +65,7 @@ Welcome to my GitHub! I'm an enthusiastic **software developer** currently pursu
 - 📝 **Ping Messaging App** – A Firebase-based messaging app with real-time chatting.
 - 🏢 **Municipal Corporation Complaint Registration** – A Spring Boot web app for registering municipal complaints.
 - 💻 **Java Apps World** – A collection of useful desktop applications built in Java Swing.
+- 🔌 **Electricity Billing System** – A full-featured web application for bill generation and management built using **HTML**, **CSS**, **JavaScript**, and **JSON**.
 
 ---
 
