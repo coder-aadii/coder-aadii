@@ -57,7 +57,9 @@ Welcome to my GitHub! I'm an enthusiastic **software developer** currently pursu
 ## 📬 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Aerpule-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-aerpule-a22062309)  
 [![Instagram](https://img.shields.io/badge/Instagram-cod3r.aadi-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/cod3r.aadi?igsh=MWd1aWNlY3JydXJ4)  
-[![GitHub](https://img.shields.io/badge/GitHub-coder--aadii-lightgrey?style=for-the-badge&logo=github)](https://github.com/coder-aadii)
+[![GitHub](https://img.shields.io/badge/GitHub-coder--aadii-lightgrey?style=for-the-badge&logo=github)](https://github.com/coder-aadii)  
+[![Email](https://img.shields.io/badge/Email-coder.aadii%40email.com-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaaerpule@email.com)
+
 
 ---
 
