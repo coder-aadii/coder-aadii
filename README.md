@@ -54,7 +54,7 @@ Welcome to my GitHub! I'm an enthusiastic **software developer** currently pursu
 ## 🔥 Streak Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-aadii&theme=radical" alt="GitHub Streak" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=coder-aadii&theme=radical&border_radius=10" alt="GitHub Streak" width="60%"/>
 </p>
 
 ---
