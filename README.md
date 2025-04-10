@@ -51,23 +51,6 @@ Welcome to my GitHub! I'm an enthusiastic **software developer** currently pursu
 
 ---
 
-## 🔥 Streak Stats:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=coder-aadii&theme=radical&border_radius=10" alt="GitHub Streak" width="60%"/>
-</p>
-
-
----
-
-## 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coder-aadii&theme=radical&row=1&margin-w=20&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🏆 Achievements:
 - 🎖️ Internships at **Codsoft Technology** and **Prodigy Infotech**.
 - 💡 Developed the **Fly Fitness Zone Client Manager App** for fitness center management.
