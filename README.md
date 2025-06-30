@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://res.cloudinary.com/deoegf9on/image/upload/v1751282734/github-header-image_cn7z6s.png" alt="Banner" width="100%" />
-</p>
+![banner](/image/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Aditya (aka coder-aadii)</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer | AI Explorer | MCA Student</h3>
 
@@ -83,11 +81,10 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coder-aadii&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-aadii&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-aadii&show_icons=true&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=coder-aadii&show_icons=true&theme=vision-friendly-dark" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-aadii&theme=vision-friendly-dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-aadii&show_icons=true&layout=compact&theme=vision-friendly-dark" height="165"/>
 </p>
-
 
 ---
 
