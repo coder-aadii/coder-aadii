@@ -71,16 +71,6 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coder-aadii&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-aadii&theme=tokyonight" height="165"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-aadii&show_icons=true&locale=en&layout=compact" alt="coder-aadii" />
-</p>
-
----
-
-### 🔥 GitHub Stats
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coder-aadii&show_icons=true&theme=vision-friendly-dark" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-aadii&theme=vision-friendly-dark" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-aadii&show_icons=true&layout=compact&theme=vision-friendly-dark" height="165"/>
