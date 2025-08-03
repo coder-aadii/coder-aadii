@@ -93,13 +93,13 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=coder-aadii&icon=6&color=0)](https://visitcount.itsvg.in)
-
+<!-- 
 ## 💰 You can help me by Donating
 <h3 align="left">Support:</h3>
 
 <p><a align="center" href="https://www.buymeacoffee.com/coderaadii"> 
 <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coder-aadii" />
-</a></p>
+</a></p> -->
 <br><br>
 
 ---
