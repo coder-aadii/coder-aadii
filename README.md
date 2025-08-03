@@ -97,8 +97,8 @@
 ## 💰 You can help me by Donating
 <h3 align="left">Support:</h3>
 
-<p><a align="center" href="https://www.buymeacoffee.com/dev.aditya"> 
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dev.aditya" />
+<p><a align="center" href="https://www.buymeacoffee.com/coderaadii"> 
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coder-aadii" />
 </a></p>
 <br><br>
 
